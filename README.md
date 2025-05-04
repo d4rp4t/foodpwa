@@ -1,36 +1,79 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🍔 foodpwa
 
-## Getting Started
+**NAJLŻEJSZA, NAJLEPSZA I NAJBARDZIEJ PLACEHOLDEROWA** apka do zamawiania jedzenia.  
+Tak lekka, że aż nie działa. Bo nie musi. Bo to na zaliczenie.
 
-First, run the development server:
+
+## 🤡 Co to w ogóle jest?
+
+Foodpwa to przełom w świecie technologii.  
+Apka PWA™ (Prawie Wykonana Aplikacja) do zamawiania jedzenia, której celem jest jedno: **zaliczyć przedmiot**.
+
+Zrobione w pocie czoła, w bólu i łzach.  
+Nie dlatego, że było trudno. Po prostu mi się nie chciało.
+
+## ⚠️ Disclaimer
+
+- Nic nie działa.
+- Wszystko jest na pałę.
+- Backend? Jeszcze mnie nie pojebało.
+- UX??.
+- Design? V0.dev ale i tak musialem wszystko przepisac bo nie dzialalo.
+
+## 📦 Features (czyli rzeczy, które niby są)
+
+- 🔍 Przeglądanie jedzenia (placeholdery i zdjęcia z Unsplasha) - kazda restauracja ma to samo jedzenie,
+- 🚀 Instalowalna jako PWA (chyba)
+- 📱 Responsywność - akurat to zajebiscie zrobilem
+- 🧠 Komponenty tak nowoczesne, że sam React płacze
+- 🫠 Całość robi wrażenie, dopóki nie zaczniesz używać
+- 🐊BOMBARDILLO KROKODILLO
+<img src="https://preview.redd.it/bombardino-crocodilo-vs-tralalero-tralala-tung-tung-tung-v0-eimuqnnlrnse1.jpg?width=640&crop=smart&auto=webp&s=ef411a388ab6dfc4aaf419e5bfba1a67ff74a127">
+
+## 🧑‍💻 Tech stack
+
+- NextJS
+- ShadcnUi
+- CZEGO BYS JESZCZE CHCIAL 
+
+## 😭 Co zostało zrobić
+- 🛒 Dodawanie do koszyka 
+- 💸 Ekran płatności
+## 🧪 Jak odpalić (jeśli w ogóle chcesz)
 
 ```bash
-npm run dev
-# or
+git clone https://github.com/d4rp4t/foodpwa.git
+cd foodpwa
+yarn install
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
+Potem odpal localhosta i się zachwyć, że cokolwiek w ogóle się wyświetla.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🥴 Znane bugi (czyli feature’y)
+- Czasem się nie ładuje. W sumie częściej niż czasem.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Jak naklikasz za dużo, to się rozjeżdża. Życie.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Nie ma backendu, ale jest wyobraźnia.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## 🎯 Cele projektu
+ - Udawać, że ktoś coś zrobił
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+ - Zaliczyć przedmiot
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+ - Zostać CEO Microsoftu
 
-## Deploy on Vercel
+## 🧠 Inspiracje
+ - Brak
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📸 Screenshots (albo i nie)
+Tu miały być screeny, ale mi sie nie chcialo.
+Wyobraź sobie pizzę i przycisk "Zamów". To właśnie to.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📄 Licencja
+MIT. Rob co chcesz, jebie mnie to.
+
+## 📬 Kontakt
+Nie kontaktuj się. Serio. Albo postaw mi piwo.
+
